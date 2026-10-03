@@ -1,0 +1,45 @@
+{
+  "appointments": [
+    {
+      "name": "ssss",
+      "topic": "habz",
+      "details": "hab",
+      "date": "2026-08-25",
+      "time": "09:48",
+      "id": "58IF8gCiZTA"
+    },
+    {
+      "name": "abc",
+      "topic": "dddddd",
+      "details": "dddd",
+      "date": "2026-08-05",
+      "time": "12:09",
+      "id": "luypIhvF9vQ"
+    },
+    {
+      "name": "ssss",
+      "topic": "nb ",
+      "details": "kkk",
+      "date": "2026-08-25",
+      "time": "11:11",
+      "id": "NgoErg1HKUI"
+    },
+    {
+      "name": "pooja patil",
+      "topic": "dddddd",
+      "details": "dddddd",
+      "date": "2026-09-04",
+      "time": "07:13",
+      "id": "rVm_3kbDzc8"
+    },
+    {
+      "name": "",
+      "topic": "",
+      "details": "",
+      "date": "",
+      "time": "",
+      "id": "ojT1khweigs"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

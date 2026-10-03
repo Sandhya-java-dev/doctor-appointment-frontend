@@ -1,0 +1,96 @@
+.home{
+background-image: url("https://th.bing.com/th/id/OIG3.nbhVZXa4ZtvZlvJB.68d?pid=ImgGn");
+width: 100%;
+ height:60vh; 
+ background-size: cover;
+ background-position: center;
+ background-repeat: no-repeat;
+ text-align: center;
+ 
+}
+.footer{
+justify-content:space-around;
+align-items: center;
+    display: flex;
+    column-gap: 100px;
+    margin-top: auto;
+    
+     min-height: 30vh;
+     width: 100%;
+     padding: 20px;
+     background-color:#74bdc5;
+     box-sizing: border-box;
+     position: fixed;
+     bottom: 0;
+}
+.appointment-table-container {
+  width: 95%;
+  margin: 30px auto;
+  overflow-x: auto;
+}
+
+.appointment-table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: white;
+}
+
+.appointment-table th,
+.appointment-table td {
+   border: 1px solid #0b0e0e;
+  padding: 12px;
+  text-align: center;
+}
+
+.appointment-table th {
+  background-color: #7eb0bd;
+  font-weight: bold;
+}
+
+.appointment-table tr:nth-child(even) {
+   background-color: #f9f9f9;
+}
+
+.appointment-table tr:hover {
+   background-color: #f1f1f1;
+}
+
+.navbar {
+  padding: 12px 30px;
+  background-color: white !important;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Left logo */
+.navbar-brand {
+  color: #087f8c !important;
+  font-size: 23px;
+  font-weight: 700;
+}
+
+.navbar-brand i {
+  font-size: 27px;
+  margin-right: 8px;
+}
+
+/* Right navigation */
+.navbar-nav {
+  gap: 8px;
+}
+
+.navbar-nav .nav-link {
+  color: #333 !important;
+  font-size: 16px;
+  font-weight: 500;
+  padding: 8px 14px !important;
+  border-radius: 6px;
+}
+
+.navbar-nav .nav-link:hover {
+  background-color: #087f8c;
+  color: white !important;
+}
+
+
+
+
